@@ -14,31 +14,3 @@ def Binary_Search(arr,item):
 
 
 print(Binary_Search([0,3,5,7,9,11],3))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
